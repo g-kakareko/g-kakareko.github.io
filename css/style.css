@@ -393,8 +393,9 @@ a.article:hover {
   margin-top: 0;
   padding-top: 0px;
 
-   margin-bottom: 0px;
-  height: 100vh;
+  margin-bottom: 0px;
+  /*height: 100vh;*/
+  height: 100%;
 }
 
 .jumbotron button{
